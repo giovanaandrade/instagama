@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Modules",
+    "\\src\\Modules\\InstaGama.Domain",
+    "\\src\\Modules\\InstaGama.Repositories",
+    "\\src\\Modules\\InstaGama.Repositories.IoC",
+    "\\src\\Modules\\InstaGama.Repositories.IoC\\Repositories",
+    "\\src\\Services",
+    "\\src\\Services\\InstaGama.Api",
+    "\\src\\Services\\InstaGama.Api\\Controllers"
+  ],
+  "SelectedNode": "\\src\\Services\\InstaGama.Api\\Controllers\\LoginController.cs",
+  "PreviewInSolutionExplorer": false
+}

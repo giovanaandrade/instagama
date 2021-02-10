@@ -11,6 +11,7 @@ namespace InstaGama.Domain.Entities
                      DateTime birthday,
                      Gender gender,
                      string photo)
+
         {
             Email = email;
             CriptografyPassword(password);
@@ -19,6 +20,11 @@ namespace InstaGama.Domain.Entities
             Birthday = birthday;
             Gender = gender;
             Photo = photo;
+        }
+
+        public User(int id)
+        {
+            Id = id;
         }
 
         public int Id { get; private set; }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nx+cSC5AiJSJ1CcIPJDEPXK8y8aqiq4OZvuXhuc1nE7KhhqA9ra0/Hp3h0K4I5lUFr6Wc1Xq7MipPfIyG6athQ==",
+  "dgSpecHash": "/yLDdCg52TdSHUPo6za4q7B+WhmvCzHN/7pfVHeSdZfUwUUgx3Ge6SYEy30TwHmmd5h2+7WVpyP315mx8OmjQg==",
   "success": true,
-  "projectFilePath": "C:\\_test\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj",
+  "projectFilePath": "C:\\Users\\giova\\Desktop\\Gama Academy\\aulas-net\\instagama\\instagama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

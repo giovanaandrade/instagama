@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\foes\\.nuget\\packages\\": {}
+    "C:\\Users\\giova\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_test\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\giova\\Desktop\\Gama Academy\\aulas-net\\instagama\\instagama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj",
       "projectName": "InstaGama.Domain",
-      "projectPath": "C:\\_test\\InstaGama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj",
-      "packagesPath": "C:\\Users\\foes\\.nuget\\packages\\",
-      "outputPath": "C:\\_test\\InstaGama\\src\\Modules\\InstaGama.Domain\\obj\\",
+      "projectPath": "C:\\Users\\giova\\Desktop\\Gama Academy\\aulas-net\\instagama\\instagama\\src\\Modules\\InstaGama.Domain\\InstaGama.Domain.csproj",
+      "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\giova\\Desktop\\Gama Academy\\aulas-net\\instagama\\instagama\\src\\Modules\\InstaGama.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\foes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
